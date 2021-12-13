@@ -36,14 +36,16 @@ Here's a bit about me :
 <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/flask.png"/>
 
 
 ## Machine Learning tools and frameworks
-<span><img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png"/></span>
-<img width="48px" src="https://keras.io/img/logo.png" />
-<img width="48px" src="https://www.gstatic.com/devrel-devsite/prod/v583c167abdd1a21bfbd770256d119796fdffc0b7177f088bca68fc6b48429661/tensorflow/images/lockup.svg" />
-<img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
-<img width="48px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/cuda.svg" />
+<span><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png"/></span>
+<img src="https://img.icons8.com/fluency/48/000000/opencv.png"/>
+<img width="70px" src="https://keras.io/img/logo.png" />
+<img width="80px" src="https://www.gstatic.com/devrel-devsite/prod/v583c167abdd1a21bfbd770256d119796fdffc0b7177f088bca68fc6b48429661/tensorflow/images/lockup.svg" />
+<img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
+<img width="40px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/cuda.svg" />
 
 
 ## Databases
